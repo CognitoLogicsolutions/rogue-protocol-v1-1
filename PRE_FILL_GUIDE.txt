@@ -1,0 +1,9 @@
+FORM H4800 (Appeal):
+- Reason: Meeting 20hr ABAWD via Solo Tarea R&D.
+- Case Number: 1034237154
+- Evidence: Attached 22-hour weekly log and JelloMundo manifest.
+
+FORM H1049 (Work):
+- Business Name: Solo Tarea
+- Hours: 22/week
+- Status: Product Development Phase.
